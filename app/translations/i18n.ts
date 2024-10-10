@@ -40,8 +40,5 @@ use<any>(LANGUAGE_DETECTOR)
       en: en,
       fr: fr,
     },
-    react: {
-      useSuspense: false,
-    },
   });
   export default i18n;

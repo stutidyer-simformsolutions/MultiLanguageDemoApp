@@ -1,6 +1,13 @@
 {
     "home": {
+        "screenName": "Home",
         "title": "Welcome!",
-        "description": "Demo of multi language app setup in React Native"
+        "description": "Demo of multi language app setup in React Native",
+        "btnText": "Go to Details"
+    },
+    "detail": {
+        "screenName": "Detail",
+        "description": "This is a detail screen",
+        "btnText": "Go to Home"
     }
 }

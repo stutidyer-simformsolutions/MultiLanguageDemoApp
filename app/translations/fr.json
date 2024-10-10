@@ -1,6 +1,13 @@
 {
     "home":{
+        "screenName": "Écran d'accueil",
         "title": "Bienvenue!",
-        "description": "Démo de la configuration d'une application multilingue en React Native"
+        "description": "Démo de la configuration d'une application multilingue en React Native",
+        "btnText": "Aller aux détails"
+    },
+    "detail": {
+        "screenName": "Écran de détails",
+        "description": "Ceci est un écran de détail",
+        "btnText": "Aller à la maison"
     }
 }
